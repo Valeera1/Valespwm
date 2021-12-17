@@ -1,0 +1,2 @@
+# valespwm
+my bspwm config
